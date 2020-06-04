@@ -1,0 +1,38 @@
+body {
+    background-image: url(pra.jpg);
+    
+}
+.destinos{
+    width: 384px;
+    background-color: rgba(203, 196, 181, 0.82);
+    padding: 30px;
+    float: right;
+    color: #ffffff;
+    text-align:right;
+    font-family: arial,helvetica,sans-serif;
+   
+    
+    
+}
+.destinos2{
+    width: 384px;
+    background-color: rgba(40, 134, 33, 0.81);
+    padding: 30px;
+    float: right;
+    color: #ffffff;
+    text-align:right;
+    font-family: arial,helvetica,sans-serif;
+    
+    
+}
+.destinos3{
+    width: 384px;
+    background-color: rgba(155, 5, 5, 0.85);
+    padding: 30px;
+    float: right;
+    color: #ffffff;
+    text-align:right;
+    font-family: arial,helvetica,sans-serif;
+    
+    
+}

@@ -1,0 +1,31 @@
+body {
+    background-image: url(pra.jpg);
+}
+.video{
+    width: 600px;
+    background-color: rgba(116, 8, 8, 0.9);
+    padding: 100;
+    float: left;
+    color: #ffffff;
+    text-align:left;
+    font-family: arial,helvetica,sans-serif;
+   
+    
+    
+}
+.cuestionario{
+    width: 384px;
+    background-color: rgba(0, 0, 0, 0.82);
+    padding: 30px;
+    float: right;
+    color: #ffffff;
+    text-align:left;
+    font-family: arial,helvetica,sans-serif;
+   
+    
+    
+}
+
+   
+
+        

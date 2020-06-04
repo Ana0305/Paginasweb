@@ -1,0 +1,57 @@
+body {
+    background-image: url(fondo.jpg);
+    
+}
+h1 {font-family: "trebuchet MS",ARIAL, helvetica,sans-serif;
+font-style: itali;
+text-decoration:underline;
+}
+.contenido{
+    background-color: #000000;
+    width: 1000px
+}
+.titulo{
+    width: 950px;
+     background-image: url(paisage.jpg);
+        height: 200px;
+        
+}
+.destinos{
+    width: 300px;
+    background-color: #ff8800;
+    padding: 20px;
+    float: left;
+    color: #000033;
+    text-align:left;
+    font-family: arial,helvetica,sans-serif;
+    
+    
+}
+
+.explicacion {
+    width: 600px;
+ background-image: url(arbol.jpg);
+    padding: 20px;
+    float: left;
+    text-align: justify;
+    
+}
+.fin{
+    clear: both;
+    text-decoration: blink;
+    font-family: verdana,geneva,sans-serif;
+    font-size: 14px;
+    color: #000;
+    
+}
+.nombres{
+    width: 600px;
+    background-color: rgba(11, 14, 103, 0.92);
+    padding: 20px;
+    float: left;
+    color: #000033;
+    text-align:left;
+    font-family: arial,helvetica,sans-serif;
+    
+    
+}
